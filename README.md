@@ -1,6 +1,6 @@
 # Website about food or classes
 
-In Order to run this app, first start your redis server with `./redis-server` in your redis install's src directory. Then in this project's root directory, do `npm start`.
+In Order to run this application, first start your redis server with `./redis-server` in your redis install's src directory. Then in this project's root directory, do `npm start`.
 
 As I mentioned we use Redis as our cache. Here's how to set Redis up on your computer:
 1. Visit [Redis's website](https://redis.io/) and download the latest stable version (as of writing this, 5.0.0).
